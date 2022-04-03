@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 I am Taj-Hakeem Ryles, I mainly go by Taj. 
+
 I am currently attending Metro Community College enrolled in their Frontend Web Development program with plans on attending University after graduation, majoring in Computer Science.
 
 My passion for web development lies in the crosshairs of development and design.
@@ -26,6 +27,8 @@ My passion for web development lies in the crosshairs of development and design.
 Skill I have learned along my journey: 
 
 :octocat: Git | Github
+
 :art: Figma
+
 :globe_with_meridians: HTML | CSS | JavaScript | Python
 
