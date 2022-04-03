@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Taj-Hakeem Ryles, I mainly go by Taj. 
+I am Taj-Hakeem Ryles, I mainly go by Taj.
+😄 Pronouns: He/Him
 
 I am currently attending Metro Community College enrolled in their Frontend Web Development program with plans on attending University after graduation, majoring in Computer Science.
 
@@ -30,5 +31,5 @@ Skill I have learned along my journey:
 
 :art: Figma
 
-:globe_with_meridians: HTML | CSS | JavaScript | Python
+:globe_with_meridians: HTML | CSS | JavaScript | Python | Node.JS | Mongo.DB 
 
