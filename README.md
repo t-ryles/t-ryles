@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 I am Taj-Hakeem Ryles, I mainly go by Taj.
+
 😄 Pronouns: He/Him
 
 I am currently attending Metro Community College enrolled in their Frontend Web Development program with plans on attending University after graduation, majoring in Computer Science.
