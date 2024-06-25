@@ -34,5 +34,5 @@ Skill I have learned along my journey:
 
 :art: Figma
 
-:globe_with_meridians: HTML | CSS | JavaScript | Python | Node.JS | Mongo.DB 
+:globe_with_meridians: HTML | CSS | JavaScript | Kotlin | Java | Python | Node.JS | Mongo.DB 
 
