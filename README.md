@@ -27,8 +27,11 @@ My passion for web development lies in the crosshairs of development and design.
 :exclamation:I am currently looking for new opportunities to showcase my skills and gain work experience.:exclamation:
 
 🌱 I’m currently learning ... Kotlin along with Android Development, just got accepted into CodePath Android Development Program.
+🌱 I’m currently learning ... Specialization in JavaScript with AIM in Omaha, NE.
 
-Skill I have learned along my journey: 
+⚡ Ask me about my 4 C's!
+
+Skills I have learned along my journey: 
 
 :octocat: Git | Github
 
